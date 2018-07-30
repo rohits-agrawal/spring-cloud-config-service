@@ -1,0 +1,4 @@
+server.port: 8889
+spring.profiles.active: native
+spring.cloud.config.server.native.searchLocations: file:///C:/Users/rohit/IdeaProjects/configsrv/src/main/resources/config
+
